@@ -1,0 +1,25 @@
+{
+  "name": "cnab-viewer",
+  "version": "1.0.0",
+  "description": "Visualizador de arquivos CNAB de envio e retorno",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jampow/cnabViewer.git"
+  },
+  "keywords": [
+    "cnab"
+  ],
+  "author": "Gianpaulo M. Soares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jampow/cnabViewer/issues"
+  },
+  "homepage": "https://github.com/jampow/cnabViewer#readme",
+  "devDependencies": {
+    "electron": "1.7.9"
+  }
+}
